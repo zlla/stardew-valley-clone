@@ -4,15 +4,15 @@
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
-    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/nguyenhoangan/Documents/FunCode/HD/.store/.stage/zhgtm54t.5k5</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/nguyenhoangan/Documents/FunCode/HD/.store/.stage/zhgtm54t.5k5</NuGetPackageFolders>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/nguyenhoangan/Documents/FunCode/StardewValleyClone/.store/.stage/zhgtm54t.5k5</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/nguyenhoangan/Documents/FunCode/StardewValleyClone/.store/.stage/zhgtm54t.5k5</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.6.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="/Users/nguyenhoangan/Documents/FunCode/HD/.store/.stage/zhgtm54t.5k5/" />
+    <SourceRoot Include="/Users/nguyenhoangan/Documents/FunCode/StardewValleyClone/.store/.stage/zhgtm54t.5k5/" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Pkgdotnet-mgcb-editor Condition=" '$(Pkgdotnet-mgcb-editor)' == '' ">/Users/nguyenhoangan/Documents/FunCode/HD/.store/.stage/zhgtm54t.5k5/dotnet-mgcb-editor/3.8.0.1641</Pkgdotnet-mgcb-editor>
+    <Pkgdotnet-mgcb-editor Condition=" '$(Pkgdotnet-mgcb-editor)' == '' ">/Users/nguyenhoangan/Documents/FunCode/StardewValleyClone/.store/.stage/zhgtm54t.5k5/dotnet-mgcb-editor/3.8.0.1641</Pkgdotnet-mgcb-editor>
   </PropertyGroup>
 </Project>

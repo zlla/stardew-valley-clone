@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using System.IO;
 using System;
 
-namespace HD
+namespace StardewValleyClone
 {
     public class Support
     {

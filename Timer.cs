@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using Microsoft.Xna.Framework;
 
-namespace HD
+namespace StardewValleyClone
 {
     public class Timer
     {

@@ -4,10 +4,10 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace HD
+namespace StardewValleyClone
 {
     public class Player : Sprite
-	{
+    {
         private GraphicsDevice _graphicsDevice;
         private Settings _settings;
         private Dictionary<string, List<Texture2D>> _animations = new();
@@ -16,8 +16,8 @@ namespace HD
         private Texture2D _image;
         private Rectangle _rectangle;
         private Color _color = Color.White;
-        private Vector2 _direction = new(0,0);
-        private Vector2 _pos = new(0,0);
+        private Vector2 _direction = new(0, 0);
+        private Vector2 _pos = new(0, 0);
         private int _speed = 50;
         private string[] _tools;
         private int _toolIndex;
@@ -30,7 +30,7 @@ namespace HD
         private SpriteGroup _collisionSprites;
         private SpriteGroup _treeSprites;
         private Rectangle _targetPos;
-        private Dictionary<string,int> _itemInventory;
+        private Dictionary<string, int> _itemInventory;
         private SpriteGroup _interActionSprites;
         public bool sleep = false;
         private Soil _soilLayer;
@@ -39,7 +39,7 @@ namespace HD
         private Action _ToggleShop;
 
         public Player(GraphicsDevice graphicsDevice, string path, Vector2 pos, SpriteGroup group, Settings settings, SpriteGroup collisionSprites, SpriteGroup treeSprites, SpriteGroup interActionSprites, Soil soilLayer, Action ToggleShop) : base(graphicsDevice, path, pos)
-		{
+        {
             _collisionSprites = collisionSprites;
             _treeSprites = treeSprites;
 
@@ -56,8 +56,8 @@ namespace HD
             _image = _animations[_status][(int)_frameIndex];
             Z = _settings.LAYERS["main"];
             _rectangle = new Rectangle(
-                (int)pos.X - _image.Width/2,
-                (int)pos.Y - _image.Height/2,
+                (int)pos.X - _image.Width / 2,
+                (int)pos.Y - _image.Height / 2,
                 _image.Width,
                 _image.Height);
             _hitbox = _rectangle;
@@ -82,9 +82,9 @@ namespace HD
             _timers.Add("seedswitch", new Timer(350, doNothing));
 
             _itemInventory = new();
-            _itemInventory.Add("wood",   0);
-            _itemInventory.Add("apple",  0);
-            _itemInventory.Add("corn",   0);
+            _itemInventory.Add("wood", 0);
+            _itemInventory.Add("apple", 0);
+            _itemInventory.Add("corn", 0);
             _itemInventory.Add("tomato", 0);
 
             _interActionSprites = interActionSprites;
@@ -97,8 +97,8 @@ namespace HD
             _ToggleShop = ToggleShop;
         }
 
-        public Dictionary<string,int> ItemInventory { get => _itemInventory; }
-        public Dictionary<string,int> SeedInventory { get => _seedInventory; }
+        public Dictionary<string, int> ItemInventory { get => _itemInventory; }
+        public Dictionary<string, int> SeedInventory { get => _seedInventory; }
         public float Money { get => _money; set => _money = value; }
 
         Action doNothing = () => { };
@@ -321,7 +321,8 @@ namespace HD
                             if (_direction.X == 1)
                             {
                                 _hitbox.X = s.Hitbox.Left - _hitbox.Width;
-                            } else if (_direction.X == -1)
+                            }
+                            else if (_direction.X == -1)
                             {
                                 _hitbox.X = s.Hitbox.Right;
                             }

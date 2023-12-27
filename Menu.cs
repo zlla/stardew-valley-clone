@@ -5,14 +5,14 @@ using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace HD
+namespace StardewValleyClone
 {
-	public class Menu
-	{
-		private Settings _settings;
-		private Player _player;
-		private Action _ToggleMenu;
-		private GraphicsDevice _graphicsDevice;
+    public class Menu
+    {
+        private Settings _settings;
+        private Player _player;
+        private Action _ToggleMenu;
+        private GraphicsDevice _graphicsDevice;
 
         private int _width = 400;
         private int _space = 10;
@@ -30,11 +30,11 @@ namespace HD
         private Timer _timer;
 
         public Menu(Settings settings, Player player, Action ToggleMenu, GraphicsDevice graphicsDevice)
-		{
-			_settings = settings;
-			_player = player;
-			_ToggleMenu = ToggleMenu;
-			_graphicsDevice = graphicsDevice;
+        {
+            _settings = settings;
+            _player = player;
+            _ToggleMenu = ToggleMenu;
+            _graphicsDevice = graphicsDevice;
 
             foreach (string key in _player.ItemInventory.Keys)
             {
@@ -59,8 +59,8 @@ namespace HD
         {
             string text = $"${_player.Money}";
             Vector2 textSize = Game1.spriteFont.MeasureString(text);
-            Texture2D moneySurfBgr = new Texture2D(_graphicsDevice, (int)textSize.X+40, (int)textSize.Y+22);
-            Color[] data = new Color[((int)textSize.X+40) * ((int)textSize.Y+22)];
+            Texture2D moneySurfBgr = new Texture2D(_graphicsDevice, (int)textSize.X + 40, (int)textSize.Y + 22);
+            Color[] data = new Color[((int)textSize.X + 40) * ((int)textSize.Y + 22)];
             for (int i = 0; i < data.Length; ++i)
                 data[i] = Color.White;
             moneySurfBgr.SetData(data);
@@ -71,7 +71,7 @@ namespace HD
 
         public void Setup()
         {
-            for (int i = 0; i < _options.Count; i ++)
+            for (int i = 0; i < _options.Count; i++)
             {
                 _totalHeight += 30 + _padding * 2;
             }
@@ -81,12 +81,12 @@ namespace HD
             _mainRect = new(_settings.SCREEN_WIDTH / 2 - _width / 2, _menuTop, _width, _totalHeight);
         }
 
-		public void Input()
-		{
+        public void Input()
+        {
             _timer.Update();
 
             if (Keyboard.GetState().IsKeyDown(Keys.Escape))
-			{
+            {
                 _ToggleMenu();
             }
 
@@ -97,7 +97,8 @@ namespace HD
                     _index += 1;
                     if (_index > _options.Count - 1) _index = _options.Count - 1;
                     _timer.Activate();
-                } else if (Keyboard.GetState().IsKeyDown(Keys.Up))
+                }
+                else if (Keyboard.GetState().IsKeyDown(Keys.Up))
                 {
                     _index -= 1;
                     if (_index < 0) _index = 0;
@@ -116,7 +117,8 @@ namespace HD
                             _player.ItemInventory[currentItem] -= 1;
                             _player.Money += _settings.SALE_PRICES[currentItem];
                         }
-                    } else
+                    }
+                    else
                     {
                         float seedPrice = _settings.PURCHASE_PRICES[currentItem];
                         if (_player.Money >= seedPrice)
@@ -134,7 +136,7 @@ namespace HD
 
         public void ShowEntry(SpriteBatch spriteBatch, string text, int amount, int top, bool selected)
         {
-            Texture2D bgr = new Texture2D(_graphicsDevice, _mainRect.Width, 30 + _padding*2);
+            Texture2D bgr = new Texture2D(_graphicsDevice, _mainRect.Width, 30 + _padding * 2);
             Color[] data = new Color[_mainRect.Width * (30 + _padding * 2)];
             for (int i = 0; i < data.Length; ++i)
                 data[i] = Color.White;
@@ -168,7 +170,7 @@ namespace HD
             }
         }
         public void Update(SpriteBatch spriteBatch)
-		{
+        {
             Input();
             spriteBatch.Begin();
             for (int i = 0; i < _options.Count; i++)
@@ -192,6 +194,6 @@ namespace HD
             DisplayMoney(spriteBatch);
             spriteBatch.End();
         }
-	}
+    }
 }
 

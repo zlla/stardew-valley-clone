@@ -1,2 +1,2 @@
-﻿using var game = new HD.Game1();
+﻿using var game = new StardewValleyClone.Game1();
 game.Run();

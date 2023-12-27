@@ -268,12 +268,10 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "dotnet-mgcb-editor >= 3.8.0.1641"
-    ]
+    "net7.0": ["dotnet-mgcb-editor >= 3.8.0.1641"]
   },
   "packageFolders": {
-    "/Users/nguyenhoangan/Documents/FunCode/HD/.store/.stage/zhgtm54t.5k5": {}
+    "/Users/nguyenhoangan/Documents/FunCode/StardewValleyClone/.store/.stage/zhgtm54t.5k5": {}
   },
   "project": {
     "version": "1.0.0",
@@ -281,15 +279,11 @@
       "projectUniqueName": "/var/folders/56/78jjrfmj4fd2ldbgl6zdt3700000gn/T/87b858c3-1ad8-41e0-a761-2e1a01920b88/restore.csproj",
       "projectName": "restore",
       "projectPath": "/var/folders/56/78jjrfmj4fd2ldbgl6zdt3700000gn/T/87b858c3-1ad8-41e0-a761-2e1a01920b88/restore.csproj",
-      "packagesPath": "/Users/nguyenhoangan/Documents/FunCode/HD/.store/.stage/zhgtm54t.5k5",
-      "outputPath": "/Users/nguyenhoangan/Documents/FunCode/HD/.store/.stage/zhgtm54t.5k5/",
+      "packagesPath": "/Users/nguyenhoangan/Documents/FunCode/StardewValleyClone/.store/.stage/zhgtm54t.5k5",
+      "outputPath": "/Users/nguyenhoangan/Documents/FunCode/StardewValleyClone/.store/.stage/zhgtm54t.5k5/",
       "projectStyle": "DotnetToolReference",
-      "configFilePaths": [
-        "/Users/nguyenhoangan/.nuget/NuGet/NuGet.Config"
-      ],
-      "originalTargetFrameworks": [
-        "net7.0"
-      ],
+      "configFilePaths": ["/Users/nguyenhoangan/.nuget/NuGet/NuGet.Config"],
+      "originalTargetFrameworks": ["net7.0"],
       "sources": {
         "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
@@ -301,9 +295,7 @@
         }
       },
       "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
+        "warnAsError": ["NU1605"]
       }
     },
     "frameworks": {

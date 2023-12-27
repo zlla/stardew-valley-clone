@@ -8,7 +8,7 @@ using MonoGame.Extended.Tiled;
 using TiledMap = TiledCS.TiledMap;
 using Microsoft.Xna.Framework.Audio;
 
-namespace HD;
+namespace StardewValleyClone;
 
 public class Game1 : Game
 {

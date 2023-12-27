@@ -4,7 +4,7 @@ using System.Diagnostics;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace HD
+namespace StardewValleyClone
 {
     public class Generic : Sprite
     {
@@ -101,7 +101,7 @@ namespace HD
             HitboxStt = true;
         }
 
-        public LayerGeneric(GraphicsDevice graphicsDevice, Texture2D img, Rectangle rect,Rectangle tilesetRec, SpriteGroup groups, Settings settings) : base(graphicsDevice, new(rect.X, rect.Y))
+        public LayerGeneric(GraphicsDevice graphicsDevice, Texture2D img, Rectangle rect, Rectangle tilesetRec, SpriteGroup groups, Settings settings) : base(graphicsDevice, new(rect.X, rect.Y))
         {
             _settings = settings;
             groups.Add(this);
@@ -124,7 +124,7 @@ namespace HD
             _tilesetRec = tilesetRec;
             X = rect.Center.X;
             Y = rect.Center.Y;
-            Hitbox = new(_rect.X - 84, _rect.Y - 64, img.Width - 64, img.Height-64*2);
+            Hitbox = new(_rect.X - 84, _rect.Y - 64, img.Width - 64, img.Height - 64 * 2);
 
             HitboxStt = true;
         }
@@ -384,7 +384,7 @@ namespace HD
                 new Partical(_graphicsDevice, new Vector2(X, Y), _group, _settings.LAYERS["fruit"], 300, _name.ToLower(), _settings);
                 _image = _stumpSurf;
                 if (_name == "Small") Hitbox = new Rectangle(Hitbox.X, Hitbox.Y + 64, 156, 64);
-                else Hitbox = new Rectangle(Hitbox.X+4, Hitbox.Y + 64, 168, 64);
+                else Hitbox = new Rectangle(Hitbox.X + 4, Hitbox.Y + 64, 168, 64);
                 Y += 64;
                 _alive = false;
                 PlayerAdd("wood");
@@ -394,7 +394,7 @@ namespace HD
         public void CreateFruit()
         {
             var rand = new Random();
-            foreach ((float,float) pos in _applePos)
+            foreach ((float, float) pos in _applePos)
             {
                 if (rand.Next(10) <= 2)
                 {

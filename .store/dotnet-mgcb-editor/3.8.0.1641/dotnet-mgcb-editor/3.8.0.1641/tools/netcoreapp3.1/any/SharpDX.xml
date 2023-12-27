@@ -535,13 +535,13 @@
             <unmanaged>ERROR_TOO_MANY_CMDS</unmanaged>	
             <unmanaged-short>ERROR_TOO_MANY_CMDS</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.AdapHdwErr">
+        <member name="F:SharpDX.Win32.ErrorCode.AdapStardewValleyClonewErr">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_ADAP_HDW_ERR']/*" />	
-            <unmanaged>ERROR_ADAP_HDW_ERR</unmanaged>	
-            <unmanaged-short>ERROR_ADAP_HDW_ERR</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_ADAP_StardewValleyCloneW_ERR']/*" />	
+            <unmanaged>ERROR_ADAP_StardewValleyCloneW_ERR</unmanaged>	
+            <unmanaged-short>ERROR_ADAP_StardewValleyCloneW_ERR</unmanaged-short>	
         </member>
         <member name="F:SharpDX.Win32.ErrorCode.BadNetResp">
             <summary>	
@@ -4175,7 +4175,7 @@
             <unmanaged>ERROR_CACHE_PAGE_LOCKED</unmanaged>	
             <unmanaged-short>ERROR_CACHE_PAGE_LOCKED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.CrashDump">
+        <member name="F:SharpDX.Win32.ErrorCode.CrasStardewValleyCloneump">
             <summary>	
             No documentation.	
             </summary>	
@@ -6903,7 +6903,7 @@
             <unmanaged>ERROR_INVALID_DOMAIN_ROLE</unmanaged>	
             <unmanaged-short>ERROR_INVALID_DOMAIN_ROLE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.NoSuchDomain">
+        <member name="F:SharpDX.Win32.ErrorCode.NoSucStardewValleyCloneomain">
             <summary>	
             No documentation.	
             </summary>	
@@ -8911,7 +8911,7 @@
             <unmanaged>ERROR_DUPLICATE_TAG</unmanaged>	
             <unmanaged-short>ERROR_DUPLICATE_TAG</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.ProfileNotAssociatedWithDevice">
+        <member name="F:SharpDX.Win32.ErrorCode.ProfileNotAssociatedWitStardewValleyCloneevice">
             <summary>	
             No documentation.	
             </summary>	
@@ -8975,7 +8975,7 @@
             <unmanaged>ERROR_INVALID_COLORINDEX</unmanaged>	
             <unmanaged-short>ERROR_INVALID_COLORINDEX</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.ProfileDoesNotMatchDevice">
+        <member name="F:SharpDX.Win32.ErrorCode.ProfileDoesNotMatcStardewValleyCloneevice">
             <summary>	
             No documentation.	
             </summary>	
@@ -11391,13 +11391,13 @@
             <unmanaged>ERROR_CSV_VOLUME_NOT_LOCAL</unmanaged>	
             <unmanaged-short>ERROR_CSV_VOLUME_NOT_LOCAL</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.ClusterWatchdogTerminating">
+        <member name="F:SharpDX.Win32.ErrorCode.ClusterWatcStardewValleyCloneogTerminating">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_CLUSTER_WATCHDOG_TERMINATING']/*" />	
-            <unmanaged>ERROR_CLUSTER_WATCHDOG_TERMINATING</unmanaged>	
-            <unmanaged-short>ERROR_CLUSTER_WATCHDOG_TERMINATING</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_CLUSTER_WATCStardewValleyCloneOG_TERMINATING']/*" />	
+            <unmanaged>ERROR_CLUSTER_WATCStardewValleyCloneOG_TERMINATING</unmanaged>	
+            <unmanaged-short>ERROR_CLUSTER_WATCStardewValleyCloneOG_TERMINATING</unmanaged-short>	
         </member>
         <member name="F:SharpDX.Win32.ErrorCode.ClusterResourceVetoedMoveIncompatibleNodes">
             <summary>	
@@ -16663,7 +16663,7 @@
             <unmanaged>ERROR_DS_HIGH_ADLDS_FFL</unmanaged>	
             <unmanaged-short>ERROR_DS_HIGH_ADLDS_FFL</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.DsHighDsaVersion">
+        <member name="F:SharpDX.Win32.ErrorCode.DsHigStardewValleyClonesaVersion">
             <summary>	
             No documentation.	
             </summary>	
@@ -21847,13 +21847,13 @@
             <unmanaged>ERROR_GRAPHICS_OPM_INVALID_SRM</unmanaged>	
             <unmanaged-short>ERROR_GRAPHICS_OPM_INVALID_SRM</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.GraphicsOpmOutputDoesNotSupportHdcp">
+        <member name="F:SharpDX.Win32.ErrorCode.GraphicsOpmOutputDoesNotSupportStardewValleyClonecp">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_GRAPHICS_OPM_OUTPUT_DOES_NOT_SUPPORT_HDCP']/*" />	
-            <unmanaged>ERROR_GRAPHICS_OPM_OUTPUT_DOES_NOT_SUPPORT_HDCP</unmanaged>	
-            <unmanaged-short>ERROR_GRAPHICS_OPM_OUTPUT_DOES_NOT_SUPPORT_HDCP</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_GRAPHICS_OPM_OUTPUT_DOES_NOT_SUPPORT_StardewValleyCloneCP']/*" />	
+            <unmanaged>ERROR_GRAPHICS_OPM_OUTPUT_DOES_NOT_SUPPORT_StardewValleyCloneCP</unmanaged>	
+            <unmanaged-short>ERROR_GRAPHICS_OPM_OUTPUT_DOES_NOT_SUPPORT_StardewValleyCloneCP</unmanaged-short>	
         </member>
         <member name="F:SharpDX.Win32.ErrorCode.GraphicsOpmOutputDoesNotSupportAcp">
             <summary>	
@@ -21871,13 +21871,13 @@
             <unmanaged>ERROR_GRAPHICS_OPM_OUTPUT_DOES_NOT_SUPPORT_CGMSA</unmanaged>	
             <unmanaged-short>ERROR_GRAPHICS_OPM_OUTPUT_DOES_NOT_SUPPORT_CGMSA</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.GraphicsOpmHdcpSrmNeverSet">
+        <member name="F:SharpDX.Win32.ErrorCode.GraphicsOpmStardewValleyClonecpSrmNeverSet">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_GRAPHICS_OPM_HDCP_SRM_NEVER_SET']/*" />	
-            <unmanaged>ERROR_GRAPHICS_OPM_HDCP_SRM_NEVER_SET</unmanaged>	
-            <unmanaged-short>ERROR_GRAPHICS_OPM_HDCP_SRM_NEVER_SET</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_GRAPHICS_OPM_StardewValleyCloneCP_SRM_NEVER_SET']/*" />	
+            <unmanaged>ERROR_GRAPHICS_OPM_StardewValleyCloneCP_SRM_NEVER_SET</unmanaged>	
+            <unmanaged-short>ERROR_GRAPHICS_OPM_StardewValleyCloneCP_SRM_NEVER_SET</unmanaged-short>	
         </member>
         <member name="F:SharpDX.Win32.ErrorCode.GraphicsOpmResolutionTooHigh">
             <summary>	
@@ -21887,13 +21887,13 @@
             <unmanaged>ERROR_GRAPHICS_OPM_RESOLUTION_TOO_HIGH</unmanaged>	
             <unmanaged-short>ERROR_GRAPHICS_OPM_RESOLUTION_TOO_HIGH</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.GraphicsOpmAllHdcpHardwareAlreadyInUse">
+        <member name="F:SharpDX.Win32.ErrorCode.GraphicsOpmAllStardewValleyClonecpHardwareAlreadyInUse">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_GRAPHICS_OPM_ALL_HDCP_HARDWARE_ALREADY_IN_USE']/*" />	
-            <unmanaged>ERROR_GRAPHICS_OPM_ALL_HDCP_HARDWARE_ALREADY_IN_USE</unmanaged>	
-            <unmanaged-short>ERROR_GRAPHICS_OPM_ALL_HDCP_HARDWARE_ALREADY_IN_USE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_GRAPHICS_OPM_ALL_StardewValleyCloneCP_HARDWARE_ALREADY_IN_USE']/*" />	
+            <unmanaged>ERROR_GRAPHICS_OPM_ALL_StardewValleyCloneCP_HARDWARE_ALREADY_IN_USE</unmanaged>	
+            <unmanaged-short>ERROR_GRAPHICS_OPM_ALL_StardewValleyCloneCP_HARDWARE_ALREADY_IN_USE</unmanaged-short>	
         </member>
         <member name="F:SharpDX.Win32.ErrorCode.GraphicsOpmVideoOutputNoLongerExists">
             <summary>	
@@ -24223,157 +24223,157 @@
             <unmanaged>ERROR_BCD_NOT_ALL_ENTRIES_SYNCHRONIZED</unmanaged>	
             <unmanaged-short>ERROR_BCD_NOT_ALL_ENTRIES_SYNCHRONIZED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdDriveFooterMissing">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneDriveFooterMissing">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_DRIVE_FOOTER_MISSING']/*" />	
-            <unmanaged>ERROR_VHD_DRIVE_FOOTER_MISSING</unmanaged>	
-            <unmanaged-short>ERROR_VHD_DRIVE_FOOTER_MISSING</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_DRIVE_FOOTER_MISSING']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_DRIVE_FOOTER_MISSING</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_DRIVE_FOOTER_MISSING</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdDriveFooterChecksumMismatch">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneDriveFooterChecksumMismatch">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_DRIVE_FOOTER_CHECKSUM_MISMATCH']/*" />	
-            <unmanaged>ERROR_VHD_DRIVE_FOOTER_CHECKSUM_MISMATCH</unmanaged>	
-            <unmanaged-short>ERROR_VHD_DRIVE_FOOTER_CHECKSUM_MISMATCH</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_DRIVE_FOOTER_CHECKSUM_MISMATCH']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_DRIVE_FOOTER_CHECKSUM_MISMATCH</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_DRIVE_FOOTER_CHECKSUM_MISMATCH</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdDriveFooterCorrupt">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneDriveFooterCorrupt">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_DRIVE_FOOTER_CORRUPT']/*" />	
-            <unmanaged>ERROR_VHD_DRIVE_FOOTER_CORRUPT</unmanaged>	
-            <unmanaged-short>ERROR_VHD_DRIVE_FOOTER_CORRUPT</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_DRIVE_FOOTER_CORRUPT']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_DRIVE_FOOTER_CORRUPT</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_DRIVE_FOOTER_CORRUPT</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdFormatUnknown">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneFormatUnknown">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_FORMAT_UNKNOWN']/*" />	
-            <unmanaged>ERROR_VHD_FORMAT_UNKNOWN</unmanaged>	
-            <unmanaged-short>ERROR_VHD_FORMAT_UNKNOWN</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_FORMAT_UNKNOWN']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_FORMAT_UNKNOWN</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_FORMAT_UNKNOWN</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdFormatUnsupportedVersion">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneFormatUnsupportedVersion">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_FORMAT_UNSUPPORTED_VERSION']/*" />	
-            <unmanaged>ERROR_VHD_FORMAT_UNSUPPORTED_VERSION</unmanaged>	
-            <unmanaged-short>ERROR_VHD_FORMAT_UNSUPPORTED_VERSION</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_FORMAT_UNSUPPORTED_VERSION']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_FORMAT_UNSUPPORTED_VERSION</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_FORMAT_UNSUPPORTED_VERSION</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdSparseHeaderChecksumMismatch">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneSparseHeaderChecksumMismatch">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_SPARSE_HEADER_CHECKSUM_MISMATCH']/*" />	
-            <unmanaged>ERROR_VHD_SPARSE_HEADER_CHECKSUM_MISMATCH</unmanaged>	
-            <unmanaged-short>ERROR_VHD_SPARSE_HEADER_CHECKSUM_MISMATCH</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_SPARSE_HEADER_CHECKSUM_MISMATCH']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_SPARSE_HEADER_CHECKSUM_MISMATCH</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_SPARSE_HEADER_CHECKSUM_MISMATCH</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdSparseHeaderUnsupportedVersion">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneSparseHeaderUnsupportedVersion">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_SPARSE_HEADER_UNSUPPORTED_VERSION']/*" />	
-            <unmanaged>ERROR_VHD_SPARSE_HEADER_UNSUPPORTED_VERSION</unmanaged>	
-            <unmanaged-short>ERROR_VHD_SPARSE_HEADER_UNSUPPORTED_VERSION</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_SPARSE_HEADER_UNSUPPORTED_VERSION']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_SPARSE_HEADER_UNSUPPORTED_VERSION</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_SPARSE_HEADER_UNSUPPORTED_VERSION</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdSparseHeaderCorrupt">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneSparseHeaderCorrupt">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_SPARSE_HEADER_CORRUPT']/*" />	
-            <unmanaged>ERROR_VHD_SPARSE_HEADER_CORRUPT</unmanaged>	
-            <unmanaged-short>ERROR_VHD_SPARSE_HEADER_CORRUPT</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_SPARSE_HEADER_CORRUPT']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_SPARSE_HEADER_CORRUPT</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_SPARSE_HEADER_CORRUPT</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdBlockAllocationFailure">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneBlockAllocationFailure">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_BLOCK_ALLOCATION_FAILURE']/*" />	
-            <unmanaged>ERROR_VHD_BLOCK_ALLOCATION_FAILURE</unmanaged>	
-            <unmanaged-short>ERROR_VHD_BLOCK_ALLOCATION_FAILURE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_BLOCK_ALLOCATION_FAILURE']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_BLOCK_ALLOCATION_FAILURE</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_BLOCK_ALLOCATION_FAILURE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdBlockAllocationTableCorrupt">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneBlockAllocationTableCorrupt">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_BLOCK_ALLOCATION_TABLE_CORRUPT']/*" />	
-            <unmanaged>ERROR_VHD_BLOCK_ALLOCATION_TABLE_CORRUPT</unmanaged>	
-            <unmanaged-short>ERROR_VHD_BLOCK_ALLOCATION_TABLE_CORRUPT</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_BLOCK_ALLOCATION_TABLE_CORRUPT']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_BLOCK_ALLOCATION_TABLE_CORRUPT</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_BLOCK_ALLOCATION_TABLE_CORRUPT</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdInvalidBlockSize">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneInvalidBlockSize">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_INVALID_BLOCK_SIZE']/*" />	
-            <unmanaged>ERROR_VHD_INVALID_BLOCK_SIZE</unmanaged>	
-            <unmanaged-short>ERROR_VHD_INVALID_BLOCK_SIZE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_INVALID_BLOCK_SIZE']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_INVALID_BLOCK_SIZE</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_INVALID_BLOCK_SIZE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdBitmapMismatch">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneBitmapMismatch">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_BITMAP_MISMATCH']/*" />	
-            <unmanaged>ERROR_VHD_BITMAP_MISMATCH</unmanaged>	
-            <unmanaged-short>ERROR_VHD_BITMAP_MISMATCH</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_BITMAP_MISMATCH']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_BITMAP_MISMATCH</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_BITMAP_MISMATCH</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdParentVhdNotFound">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneParentVStardewValleyCloneNotFound">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_PARENT_VHD_NOT_FOUND']/*" />	
-            <unmanaged>ERROR_VHD_PARENT_VHD_NOT_FOUND</unmanaged>	
-            <unmanaged-short>ERROR_VHD_PARENT_VHD_NOT_FOUND</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_PARENT_VStardewValleyClone_NOT_FOUND']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_PARENT_VStardewValleyClone_NOT_FOUND</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_PARENT_VStardewValleyClone_NOT_FOUND</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdChildParentIdMismatch">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneChildParentIdMismatch">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_CHILD_PARENT_ID_MISMATCH']/*" />	
-            <unmanaged>ERROR_VHD_CHILD_PARENT_ID_MISMATCH</unmanaged>	
-            <unmanaged-short>ERROR_VHD_CHILD_PARENT_ID_MISMATCH</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_CHILD_PARENT_ID_MISMATCH']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_CHILD_PARENT_ID_MISMATCH</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_CHILD_PARENT_ID_MISMATCH</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdChildParentTimestampMismatch">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneChildParentTimestampMismatch">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_CHILD_PARENT_TIMESTAMP_MISMATCH']/*" />	
-            <unmanaged>ERROR_VHD_CHILD_PARENT_TIMESTAMP_MISMATCH</unmanaged>	
-            <unmanaged-short>ERROR_VHD_CHILD_PARENT_TIMESTAMP_MISMATCH</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_CHILD_PARENT_TIMESTAMP_MISMATCH']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_CHILD_PARENT_TIMESTAMP_MISMATCH</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_CHILD_PARENT_TIMESTAMP_MISMATCH</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdMetadataReadFailure">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneMetadataReadFailure">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_METADATA_READ_FAILURE']/*" />	
-            <unmanaged>ERROR_VHD_METADATA_READ_FAILURE</unmanaged>	
-            <unmanaged-short>ERROR_VHD_METADATA_READ_FAILURE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_METADATA_READ_FAILURE']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_METADATA_READ_FAILURE</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_METADATA_READ_FAILURE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdMetadataWriteFailure">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneMetadataWriteFailure">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_METADATA_WRITE_FAILURE']/*" />	
-            <unmanaged>ERROR_VHD_METADATA_WRITE_FAILURE</unmanaged>	
-            <unmanaged-short>ERROR_VHD_METADATA_WRITE_FAILURE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_METADATA_WRITE_FAILURE']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_METADATA_WRITE_FAILURE</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_METADATA_WRITE_FAILURE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdInvalidSize">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneInvalidSize">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_INVALID_SIZE']/*" />	
-            <unmanaged>ERROR_VHD_INVALID_SIZE</unmanaged>	
-            <unmanaged-short>ERROR_VHD_INVALID_SIZE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_INVALID_SIZE']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_INVALID_SIZE</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_INVALID_SIZE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdInvalidFileSize">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneInvalidFileSize">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_INVALID_FILE_SIZE']/*" />	
-            <unmanaged>ERROR_VHD_INVALID_FILE_SIZE</unmanaged>	
-            <unmanaged-short>ERROR_VHD_INVALID_FILE_SIZE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_INVALID_FILE_SIZE']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_INVALID_FILE_SIZE</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_INVALID_FILE_SIZE</unmanaged-short>	
         </member>
         <member name="F:SharpDX.Win32.ErrorCode.VirtdiskProviderNotFound">
             <summary>	
@@ -24391,37 +24391,37 @@
             <unmanaged>ERROR_VIRTDISK_NOT_VIRTUAL_DISK</unmanaged>	
             <unmanaged-short>ERROR_VIRTDISK_NOT_VIRTUAL_DISK</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdParentVhdAccessDenied">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneParentVStardewValleyCloneAccessDenied">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_PARENT_VHD_ACCESS_DENIED']/*" />	
-            <unmanaged>ERROR_VHD_PARENT_VHD_ACCESS_DENIED</unmanaged>	
-            <unmanaged-short>ERROR_VHD_PARENT_VHD_ACCESS_DENIED</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_PARENT_VStardewValleyClone_ACCESS_DENIED']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_PARENT_VStardewValleyClone_ACCESS_DENIED</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_PARENT_VStardewValleyClone_ACCESS_DENIED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdChildParentSizeMismatch">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneChildParentSizeMismatch">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_CHILD_PARENT_SIZE_MISMATCH']/*" />	
-            <unmanaged>ERROR_VHD_CHILD_PARENT_SIZE_MISMATCH</unmanaged>	
-            <unmanaged-short>ERROR_VHD_CHILD_PARENT_SIZE_MISMATCH</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_CHILD_PARENT_SIZE_MISMATCH']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_CHILD_PARENT_SIZE_MISMATCH</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_CHILD_PARENT_SIZE_MISMATCH</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdDifferencingChainCycleDetected">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneDifferencingChainCycleDetected">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_DIFFERENCING_CHAIN_CYCLE_DETECTED']/*" />	
-            <unmanaged>ERROR_VHD_DIFFERENCING_CHAIN_CYCLE_DETECTED</unmanaged>	
-            <unmanaged-short>ERROR_VHD_DIFFERENCING_CHAIN_CYCLE_DETECTED</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_DIFFERENCING_CHAIN_CYCLE_DETECTED']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_DIFFERENCING_CHAIN_CYCLE_DETECTED</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_DIFFERENCING_CHAIN_CYCLE_DETECTED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdDifferencingChainErrorInParent">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneDifferencingChainErrorInParent">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_DIFFERENCING_CHAIN_ERROR_IN_PARENT']/*" />	
-            <unmanaged>ERROR_VHD_DIFFERENCING_CHAIN_ERROR_IN_PARENT</unmanaged>	
-            <unmanaged-short>ERROR_VHD_DIFFERENCING_CHAIN_ERROR_IN_PARENT</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_DIFFERENCING_CHAIN_ERROR_IN_PARENT']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_DIFFERENCING_CHAIN_ERROR_IN_PARENT</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_DIFFERENCING_CHAIN_ERROR_IN_PARENT</unmanaged-short>	
         </member>
         <member name="F:SharpDX.Win32.ErrorCode.VirtualDiskLimitation">
             <summary>	
@@ -24431,21 +24431,21 @@
             <unmanaged>ERROR_VIRTUAL_DISK_LIMITATION</unmanaged>	
             <unmanaged-short>ERROR_VIRTUAL_DISK_LIMITATION</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdInvalidType">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneInvalidType">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_INVALID_TYPE']/*" />	
-            <unmanaged>ERROR_VHD_INVALID_TYPE</unmanaged>	
-            <unmanaged-short>ERROR_VHD_INVALID_TYPE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_INVALID_TYPE']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_INVALID_TYPE</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_INVALID_TYPE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdInvalidState">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneInvalidState">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_INVALID_STATE']/*" />	
-            <unmanaged>ERROR_VHD_INVALID_STATE</unmanaged>	
-            <unmanaged-short>ERROR_VHD_INVALID_STATE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_INVALID_STATE']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_INVALID_STATE</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_INVALID_STATE</unmanaged-short>	
         </member>
         <member name="F:SharpDX.Win32.ErrorCode.VirtdiskUnsupportedDiskSectorSize">
             <summary>	
@@ -24487,13 +24487,13 @@
             <unmanaged>ERROR_CTLOG_LOGFILE_SIZE_EXCEEDED_MAXSIZE</unmanaged>	
             <unmanaged-short>ERROR_CTLOG_LOGFILE_SIZE_EXCEEDED_MAXSIZE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.CtlogVhdChangedOffline">
+        <member name="F:SharpDX.Win32.ErrorCode.CtlogVStardewValleyCloneChangedOffline">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_CTLOG_VHD_CHANGED_OFFLINE']/*" />	
-            <unmanaged>ERROR_CTLOG_VHD_CHANGED_OFFLINE</unmanaged>	
-            <unmanaged-short>ERROR_CTLOG_VHD_CHANGED_OFFLINE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_CTLOG_VStardewValleyClone_CHANGED_OFFLINE']/*" />	
+            <unmanaged>ERROR_CTLOG_VStardewValleyClone_CHANGED_OFFLINE</unmanaged>	
+            <unmanaged-short>ERROR_CTLOG_VStardewValleyClone_CHANGED_OFFLINE</unmanaged-short>	
         </member>
         <member name="F:SharpDX.Win32.ErrorCode.CtlogInvalidTrackingState">
             <summary>	
@@ -24511,61 +24511,61 @@
             <unmanaged>ERROR_CTLOG_INCONSISTENT_TRACKING_FILE</unmanaged>	
             <unmanaged-short>ERROR_CTLOG_INCONSISTENT_TRACKING_FILE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdResizeWouldTruncateData">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneResizeWouldTruncateData">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_RESIZE_WOULD_TRUNCATE_DATA']/*" />	
-            <unmanaged>ERROR_VHD_RESIZE_WOULD_TRUNCATE_DATA</unmanaged>	
-            <unmanaged-short>ERROR_VHD_RESIZE_WOULD_TRUNCATE_DATA</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_RESIZE_WOULD_TRUNCATE_DATA']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_RESIZE_WOULD_TRUNCATE_DATA</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_RESIZE_WOULD_TRUNCATE_DATA</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdCouldNotComputeMinimumVirtualSize">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneCouldNotComputeMinimumVirtualSize">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_COULD_NOT_COMPUTE_MINIMUM_VIRTUAL_SIZE']/*" />	
-            <unmanaged>ERROR_VHD_COULD_NOT_COMPUTE_MINIMUM_VIRTUAL_SIZE</unmanaged>	
-            <unmanaged-short>ERROR_VHD_COULD_NOT_COMPUTE_MINIMUM_VIRTUAL_SIZE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_COULD_NOT_COMPUTE_MINIMUM_VIRTUAL_SIZE']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_COULD_NOT_COMPUTE_MINIMUM_VIRTUAL_SIZE</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_COULD_NOT_COMPUTE_MINIMUM_VIRTUAL_SIZE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdAlreadyAtOrBelowMinimumVirtualSize">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneAlreadyAtOrBelowMinimumVirtualSize">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_ALREADY_AT_OR_BELOW_MINIMUM_VIRTUAL_SIZE']/*" />	
-            <unmanaged>ERROR_VHD_ALREADY_AT_OR_BELOW_MINIMUM_VIRTUAL_SIZE</unmanaged>	
-            <unmanaged-short>ERROR_VHD_ALREADY_AT_OR_BELOW_MINIMUM_VIRTUAL_SIZE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_ALREADY_AT_OR_BELOW_MINIMUM_VIRTUAL_SIZE']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_ALREADY_AT_OR_BELOW_MINIMUM_VIRTUAL_SIZE</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_ALREADY_AT_OR_BELOW_MINIMUM_VIRTUAL_SIZE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdMetadataFull">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneMetadataFull">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_METADATA_FULL']/*" />	
-            <unmanaged>ERROR_VHD_METADATA_FULL</unmanaged>	
-            <unmanaged-short>ERROR_VHD_METADATA_FULL</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_METADATA_FULL']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_METADATA_FULL</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_METADATA_FULL</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdInvalidChangeTrackingId">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneInvalidChangeTrackingId">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_INVALID_CHANGE_TRACKING_ID']/*" />	
-            <unmanaged>ERROR_VHD_INVALID_CHANGE_TRACKING_ID</unmanaged>	
-            <unmanaged-short>ERROR_VHD_INVALID_CHANGE_TRACKING_ID</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_INVALID_CHANGE_TRACKING_ID']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_INVALID_CHANGE_TRACKING_ID</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_INVALID_CHANGE_TRACKING_ID</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdChangeTrackingDisabled">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneChangeTrackingDisabled">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_CHANGE_TRACKING_DISABLED']/*" />	
-            <unmanaged>ERROR_VHD_CHANGE_TRACKING_DISABLED</unmanaged>	
-            <unmanaged-short>ERROR_VHD_CHANGE_TRACKING_DISABLED</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_CHANGE_TRACKING_DISABLED']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_CHANGE_TRACKING_DISABLED</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_CHANGE_TRACKING_DISABLED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdMissingChangeTrackingInformation">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneMissingChangeTrackingInformation">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_MISSING_CHANGE_TRACKING_INFORMATION']/*" />	
-            <unmanaged>ERROR_VHD_MISSING_CHANGE_TRACKING_INFORMATION</unmanaged>	
-            <unmanaged-short>ERROR_VHD_MISSING_CHANGE_TRACKING_INFORMATION</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_MISSING_CHANGE_TRACKING_INFORMATION']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_MISSING_CHANGE_TRACKING_INFORMATION</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_MISSING_CHANGE_TRACKING_INFORMATION</unmanaged-short>	
         </member>
         <member name="F:SharpDX.Win32.ErrorCode.QueryStorageError">
             <summary>	
@@ -24671,7 +24671,7 @@
             <unmanaged>ERROR_SPACES_NUMBER_OF_COLUMNS_INVALID</unmanaged>	
             <unmanaged-short>ERROR_SPACES_NUMBER_OF_COLUMNS_INVALID</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SpacesNotEnoughDrives">
+        <member name="F:SharpDX.Win32.ErrorCode.SpacesNotEnougStardewValleyClonerives">
             <summary>	
             No documentation.	
             </summary>	
@@ -24959,117 +24959,117 @@
             <unmanaged>ERROR_IO_PREEMPTED</unmanaged>	
             <unmanaged-short>ERROR_IO_PREEMPTED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SvhdxErrorStored">
+        <member name="F:SharpDX.Win32.ErrorCode.SvStardewValleyClonexErrorStored">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVHDX_ERROR_STORED']/*" />	
-            <unmanaged>ERROR_SVHDX_ERROR_STORED</unmanaged>	
-            <unmanaged-short>ERROR_SVHDX_ERROR_STORED</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVStardewValleyCloneX_ERROR_STORED']/*" />	
+            <unmanaged>ERROR_SVStardewValleyCloneX_ERROR_STORED</unmanaged>	
+            <unmanaged-short>ERROR_SVStardewValleyCloneX_ERROR_STORED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SvhdxErrorNotAvailable">
+        <member name="F:SharpDX.Win32.ErrorCode.SvStardewValleyClonexErrorNotAvailable">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVHDX_ERROR_NOT_AVAILABLE']/*" />	
-            <unmanaged>ERROR_SVHDX_ERROR_NOT_AVAILABLE</unmanaged>	
-            <unmanaged-short>ERROR_SVHDX_ERROR_NOT_AVAILABLE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVStardewValleyCloneX_ERROR_NOT_AVAILABLE']/*" />	
+            <unmanaged>ERROR_SVStardewValleyCloneX_ERROR_NOT_AVAILABLE</unmanaged>	
+            <unmanaged-short>ERROR_SVStardewValleyCloneX_ERROR_NOT_AVAILABLE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SvhdxUnitAttentionAvailable">
+        <member name="F:SharpDX.Win32.ErrorCode.SvStardewValleyClonexUnitAttentionAvailable">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVHDX_UNIT_ATTENTION_AVAILABLE']/*" />	
-            <unmanaged>ERROR_SVHDX_UNIT_ATTENTION_AVAILABLE</unmanaged>	
-            <unmanaged-short>ERROR_SVHDX_UNIT_ATTENTION_AVAILABLE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_AVAILABLE']/*" />	
+            <unmanaged>ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_AVAILABLE</unmanaged>	
+            <unmanaged-short>ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_AVAILABLE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SvhdxUnitAttentionCapacityDataChanged">
+        <member name="F:SharpDX.Win32.ErrorCode.SvStardewValleyClonexUnitAttentionCapacityDataChanged">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVHDX_UNIT_ATTENTION_CAPACITY_DATA_CHANGED']/*" />	
-            <unmanaged>ERROR_SVHDX_UNIT_ATTENTION_CAPACITY_DATA_CHANGED</unmanaged>	
-            <unmanaged-short>ERROR_SVHDX_UNIT_ATTENTION_CAPACITY_DATA_CHANGED</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_CAPACITY_DATA_CHANGED']/*" />	
+            <unmanaged>ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_CAPACITY_DATA_CHANGED</unmanaged>	
+            <unmanaged-short>ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_CAPACITY_DATA_CHANGED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SvhdxUnitAttentionReservationsPreempted">
+        <member name="F:SharpDX.Win32.ErrorCode.SvStardewValleyClonexUnitAttentionReservationsPreempted">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVHDX_UNIT_ATTENTION_RESERVATIONS_PREEMPTED']/*" />	
-            <unmanaged>ERROR_SVHDX_UNIT_ATTENTION_RESERVATIONS_PREEMPTED</unmanaged>	
-            <unmanaged-short>ERROR_SVHDX_UNIT_ATTENTION_RESERVATIONS_PREEMPTED</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_RESERVATIONS_PREEMPTED']/*" />	
+            <unmanaged>ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_RESERVATIONS_PREEMPTED</unmanaged>	
+            <unmanaged-short>ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_RESERVATIONS_PREEMPTED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SvhdxUnitAttentionReservationsReleased">
+        <member name="F:SharpDX.Win32.ErrorCode.SvStardewValleyClonexUnitAttentionReservationsReleased">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVHDX_UNIT_ATTENTION_RESERVATIONS_RELEASED']/*" />	
-            <unmanaged>ERROR_SVHDX_UNIT_ATTENTION_RESERVATIONS_RELEASED</unmanaged>	
-            <unmanaged-short>ERROR_SVHDX_UNIT_ATTENTION_RESERVATIONS_RELEASED</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_RESERVATIONS_RELEASED']/*" />	
+            <unmanaged>ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_RESERVATIONS_RELEASED</unmanaged>	
+            <unmanaged-short>ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_RESERVATIONS_RELEASED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SvhdxUnitAttentionRegistrationsPreempted">
+        <member name="F:SharpDX.Win32.ErrorCode.SvStardewValleyClonexUnitAttentionRegistrationsPreempted">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVHDX_UNIT_ATTENTION_REGISTRATIONS_PREEMPTED']/*" />	
-            <unmanaged>ERROR_SVHDX_UNIT_ATTENTION_REGISTRATIONS_PREEMPTED</unmanaged>	
-            <unmanaged-short>ERROR_SVHDX_UNIT_ATTENTION_REGISTRATIONS_PREEMPTED</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_REGISTRATIONS_PREEMPTED']/*" />	
+            <unmanaged>ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_REGISTRATIONS_PREEMPTED</unmanaged>	
+            <unmanaged-short>ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_REGISTRATIONS_PREEMPTED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SvhdxUnitAttentionOperatingDefinitionChanged">
+        <member name="F:SharpDX.Win32.ErrorCode.SvStardewValleyClonexUnitAttentionOperatingDefinitionChanged">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVHDX_UNIT_ATTENTION_OPERATING_DEFINITION_CHANGED']/*" />	
-            <unmanaged>ERROR_SVHDX_UNIT_ATTENTION_OPERATING_DEFINITION_CHANGED</unmanaged>	
-            <unmanaged-short>ERROR_SVHDX_UNIT_ATTENTION_OPERATING_DEFINITION_CHANGED</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_OPERATING_DEFINITION_CHANGED']/*" />	
+            <unmanaged>ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_OPERATING_DEFINITION_CHANGED</unmanaged>	
+            <unmanaged-short>ERROR_SVStardewValleyCloneX_UNIT_ATTENTION_OPERATING_DEFINITION_CHANGED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SvhdxReservationConflict">
+        <member name="F:SharpDX.Win32.ErrorCode.SvStardewValleyClonexReservationConflict">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVHDX_RESERVATION_CONFLICT']/*" />	
-            <unmanaged>ERROR_SVHDX_RESERVATION_CONFLICT</unmanaged>	
-            <unmanaged-short>ERROR_SVHDX_RESERVATION_CONFLICT</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVStardewValleyCloneX_RESERVATION_CONFLICT']/*" />	
+            <unmanaged>ERROR_SVStardewValleyCloneX_RESERVATION_CONFLICT</unmanaged>	
+            <unmanaged-short>ERROR_SVStardewValleyCloneX_RESERVATION_CONFLICT</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SvhdxWrongFileType">
+        <member name="F:SharpDX.Win32.ErrorCode.SvStardewValleyClonexWrongFileType">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVHDX_WRONG_FILE_TYPE']/*" />	
-            <unmanaged>ERROR_SVHDX_WRONG_FILE_TYPE</unmanaged>	
-            <unmanaged-short>ERROR_SVHDX_WRONG_FILE_TYPE</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVStardewValleyCloneX_WRONG_FILE_TYPE']/*" />	
+            <unmanaged>ERROR_SVStardewValleyCloneX_WRONG_FILE_TYPE</unmanaged>	
+            <unmanaged-short>ERROR_SVStardewValleyCloneX_WRONG_FILE_TYPE</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SvhdxVersionMismatch">
+        <member name="F:SharpDX.Win32.ErrorCode.SvStardewValleyClonexVersionMismatch">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVHDX_VERSION_MISMATCH']/*" />	
-            <unmanaged>ERROR_SVHDX_VERSION_MISMATCH</unmanaged>	
-            <unmanaged-short>ERROR_SVHDX_VERSION_MISMATCH</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVStardewValleyCloneX_VERSION_MISMATCH']/*" />	
+            <unmanaged>ERROR_SVStardewValleyCloneX_VERSION_MISMATCH</unmanaged>	
+            <unmanaged-short>ERROR_SVStardewValleyCloneX_VERSION_MISMATCH</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdShared">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyCloneShared">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHD_SHARED']/*" />	
-            <unmanaged>ERROR_VHD_SHARED</unmanaged>	
-            <unmanaged-short>ERROR_VHD_SHARED</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyClone_SHARED']/*" />	
+            <unmanaged>ERROR_VStardewValleyClone_SHARED</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyClone_SHARED</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.SvhdxNoInitiator">
+        <member name="F:SharpDX.Win32.ErrorCode.SvStardewValleyClonexNoInitiator">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVHDX_NO_INITIATOR']/*" />	
-            <unmanaged>ERROR_SVHDX_NO_INITIATOR</unmanaged>	
-            <unmanaged-short>ERROR_SVHDX_NO_INITIATOR</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_SVStardewValleyCloneX_NO_INITIATOR']/*" />	
+            <unmanaged>ERROR_SVStardewValleyCloneX_NO_INITIATOR</unmanaged>	
+            <unmanaged-short>ERROR_SVStardewValleyCloneX_NO_INITIATOR</unmanaged-short>	
         </member>
-        <member name="F:SharpDX.Win32.ErrorCode.VhdsetBackingStorageNotFound">
+        <member name="F:SharpDX.Win32.ErrorCode.VStardewValleyClonesetBackingStorageNotFound">
             <summary>	
             No documentation.	
             </summary>	
-            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VHDSET_BACKING_STORAGE_NOT_FOUND']/*" />	
-            <unmanaged>ERROR_VHDSET_BACKING_STORAGE_NOT_FOUND</unmanaged>	
-            <unmanaged-short>ERROR_VHDSET_BACKING_STORAGE_NOT_FOUND</unmanaged-short>	
+            <!-- No matching elements were found for the following include tag --><include file="..\..\..\Documentation\CodeComments.xml" path="/comments/comment[@id='ERROR_VStardewValleyCloneSET_BACKING_STORAGE_NOT_FOUND']/*" />	
+            <unmanaged>ERROR_VStardewValleyCloneSET_BACKING_STORAGE_NOT_FOUND</unmanaged>	
+            <unmanaged-short>ERROR_VStardewValleyCloneSET_BACKING_STORAGE_NOT_FOUND</unmanaged-short>	
         </member>
         <member name="F:SharpDX.Win32.ErrorCode.SmbNoPreauthIntegrityHashOverlap">
             <summary>	
@@ -36183,7 +36183,7 @@
         <member name="T:SharpDX.Multimedia.WaveFormatExtensible">
             <summary>
             WaveFormatExtensible
-            http://www.microsoft.com/whdc/device/audio/multichaud.mspx
+            http://www.microsoft.com/wStardewValleyClonec/device/audio/multichaud.mspx
             </summary>
             <unmanaged>WAVEFORMATEXTENSIBLE</unmanaged>
         </member>

@@ -11,7 +11,7 @@ using MonoGame.Extended.Screens.Transitions;
 using MonoGame.Extended.Tiled;
 using TiledCS;
 
-namespace HD
+namespace StardewValleyClone
 {
     public class Level
     {
@@ -42,7 +42,7 @@ namespace HD
             _overlay = new(_player, _settings, graphicsDevice);
 
             //sky
-            if (rnd.Next(0,10) > 7)
+            if (rnd.Next(0, 10) > 7)
             {
                 _raining = true;
             }
@@ -362,7 +362,7 @@ namespace HD
 
             //apples on trees
             foreach (Tree tree in _treeSprites.GetSprites)
-            { 
+            {
                 foreach (Apple apple in tree.GetAppleSprites.GetSprites.ToList())
                 {
                     tree.GetAppleSprites.Remove(apple);
@@ -376,7 +376,7 @@ namespace HD
         public void PlantCollision()
         {
             if (_soilLayer.PlantSprites.GetSprites.Count > 0)
-            { 
+            {
                 foreach (Plant plant in _soilLayer.PlantSprites.GetSprites.ToList())
                 {
                     if (plant.Harvestable && plant.Rect.Intersects(new Rectangle(_player.X, _player.Y, 64, 64)))

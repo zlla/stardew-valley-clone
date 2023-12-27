@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace HD
+namespace StardewValleyClone
 {
     public class FrameCounter
     {

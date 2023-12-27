@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Numerics;
 
-namespace HD
+namespace StardewValleyClone
 {
     public class Settings
     {
-        private string _path = "/Users/nguyenhoangan/Downloads/HD/";
+        private string _path = "/Users/nguyenhoangan/Downloads/StardewValleyClone/";
 
         // screen
         private int _screenWidth;

@@ -8007,7 +8007,7 @@
             Float 64-bit ARGB format for store 16 bits per channel. 
             </summary>
         </member>
-        <member name="F:Microsoft.Xna.Framework.Graphics.SurfaceFormat.HdrBlendable">
+        <member name="F:Microsoft.Xna.Framework.Graphics.SurfaceFormat.StardewValleyClonerBlendable">
             <summary>
             Float pixel format for high dynamic range data.
             </summary>

@@ -2,28 +2,28 @@
 using System.Linq;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace HD
+namespace StardewValleyClone
 {
-	public class SpriteGroup
-	{
+    public class SpriteGroup
+    {
         private List<Sprite> _allSprites = new();
 
-		public List<Sprite> GetSprites { get => _allSprites; }
+        public List<Sprite> GetSprites { get => _allSprites; }
 
-        public SpriteGroup() {}
+        public SpriteGroup() { }
 
-		public void Add(Sprite s)
-		{
-			_allSprites.Add(s);
+        public void Add(Sprite s)
+        {
+            _allSprites.Add(s);
         }
 
-		public void Remove(Sprite s)
-		{
+        public void Remove(Sprite s)
+        {
             if (_allSprites.Contains(s))
             {
-			    _allSprites.Remove(s);
+                _allSprites.Remove(s);
             }
-		}
+        }
 
         public void RemoveAt(int index)
         {
@@ -31,7 +31,7 @@ namespace HD
         }
 
         public void Update(float dt)
-		{
+        {
             foreach (Sprite sprite in _allSprites.ToList())
             {
                 sprite.Update(dt);
